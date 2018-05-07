@@ -1,5 +1,7 @@
 # Arduino LoRa
 
+Forked from: [sandeepmistry/arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa)
+
 [![Build Status](https://travis-ci.org/sandeepmistry/arduino-LoRa.svg?branch=master)](https://travis-ci.org/sandeepmistry/arduino-LoRa)
 
 An [Arduino](https://arduino.cc/) library for sending and receiving data using [LoRa](https://www.lora-alliance.org/) radios.
